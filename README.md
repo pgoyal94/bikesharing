@@ -13,13 +13,23 @@ Following our trip to NYC, Kate and I realized that part of what made our trip s
 
 ![image](https://user-images.githubusercontent.com/92613639/153805485-b95d26fb-4fe5-41a0-a118-b0036713db92.png)
 
-Looking at trip durations overall, we notice that a majority of trips last less than an hour. This holds true when analyzing the data based on gender and based on age (by birth year). There are more trips taken by individuals who identify as male than those who identify as female, and more trips taken by individuals who identify as female than those whose gender is unknown. As birth year increases (age of rider decreases) the average length of ride increases slightly.
+Looking at trip durations overall, we notice that a majority of trips last less than an hour. This holds true when analyzing the data based on gender and based on age (by birth year). 
+
+![image](https://user-images.githubusercontent.com/92613639/153807578-9c12912c-f673-49cb-8a05-020ab80f1d2d.png)
+
+![image](https://user-images.githubusercontent.com/92613639/153807621-efc8816c-3f0e-4ebd-9b1d-d0093777a0ad.png)
+
+There are more trips taken by individuals who identify as male than those who identify as female, and more trips taken by individuals who identify as female than those whose gender is unknown. As birth year increases (age of rider decreases) the average length of ride increases slightly.
 
 ### Number of bike trips for all riders and genders for each hour of each day of the week
 
 <img width="743" alt="image" src="https://user-images.githubusercontent.com/92613639/153806015-02fd206c-e7a2-430c-94b0-0de829f8ce03.png">
 
-Looking at the trip trends overall, we notice that weekdays appear to have a higher concentration of trips in the typical morning and afternoon commute hours, whereas weekends appear to have a more uniform distribution during the daylight hours. The trends of trips by day and hour do not appear to differ based on gender, however - once again, we see that there are more male riders than female riders, and more female riders than gender-unknown riders.
+Looking at the trip trends overall, we notice that weekdays appear to have a higher concentration of trips in the typical morning and afternoon commute hours, whereas weekends appear to have a more uniform distribution during the daylight hours. 
+
+![image](https://user-images.githubusercontent.com/92613639/153807956-fd753e98-83c4-47fe-aa6d-024fbeaa7312.png)
+
+The trends of trips by day and hour do not appear to differ based on gender, however - once again, we see that there are more male riders than female riders, and more female riders than gender-unknown riders.
 
 ### Number of bike trips for each type of user and gender for each day of the week
 
