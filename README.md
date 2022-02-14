@@ -1,6 +1,8 @@
 # An Analysis of New York City Bikeshare Data
 Present data from CitiBike in New York City to investors to make an argument to introduce a bikeshare initiative in Des Moines, Iowa.
 
+### [Link to Dashboard](https://public.tableau.com/shared/Z3BY3K82T?:display_count=n&:origin=viz_share_link)
+
 ## Overview of the analysis
 Following our trip to NYC, Kate and I realized that part of what made our trip so enjoyable was the access we had to CitiBikes, a bikeshare company in NYC. We are exploring introducing something similar in Des Moines and have an interested investor. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis. We have included the following in our proposal:
 
